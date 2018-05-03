@@ -12,15 +12,15 @@ __University Name__
 Degree Awarded
 
 `1995 - 1997`
-__University Name__
+**University Name**
 Degree Awarded 
 
-## Awards
+# Awards
 
 `2012`
 Name of Award, Organization 
 
-## Publications
+### Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
