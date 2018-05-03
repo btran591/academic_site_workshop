@@ -7,11 +7,11 @@ Currently employed.
 
 ## Education
 
-`1990 - 1994`
+`1992 - 1998`
 __University Name__
 Degree Awarded
 
-`1995 - 1997`
+`1999 - 2005`
 **University Name**
 Degree Awarded 
 
